@@ -1,5 +1,4 @@
 # csv-crud-fastapi-docker
-Progetto richiesto per colloquio Social Thingum.
 
 Il progetto sviluppato ha come obiettivo la gestione backend delle operazioni CRUD su un file CSV.
 
